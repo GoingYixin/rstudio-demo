@@ -3,4 +3,4 @@ sayHello<-function(name){
 }
 sayHello("ericgong")
 sayHello("world")
-eric <- c('success','strive')
+name <- c('a','b','c')
